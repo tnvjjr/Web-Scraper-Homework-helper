@@ -2,6 +2,8 @@
 
 A versatile Python tool that automatically extracts and saves content from web pages and PDF files using URLs from a Word document.
 
+<img width="1472" alt="WebScaper" src="https://github.com/user-attachments/assets/2a5da827-19db-4d52-8217-cecf3b3a2fd4" />
+
 ## Table of Contents
 * [General Info](#general-information)
 * [Features](#features)
